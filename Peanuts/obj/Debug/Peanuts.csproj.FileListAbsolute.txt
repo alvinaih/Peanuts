@@ -1,0 +1,12 @@
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\bin\Debug\Peanuts.exe.config
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\bin\Debug\Peanuts.exe
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\bin\Debug\Peanuts.pdb
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.csprojAssemblyReference.cache
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.Form1.resources
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.Properties.Resources.resources
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.csproj.GenerateResource.cache
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.csproj.CoreCompileInputs.cache
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.exe
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.pdb
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.Home.resources
+C:\Users\Alvina\source\repos\Peanuts\Peanuts\obj\Debug\Peanuts.LoginForm.resources
